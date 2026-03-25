@@ -3,7 +3,7 @@ mean (x)
 
 #Código adicionado 
 
-y <- 2*x
+y <- 3*x
 
 sum(y)
 
